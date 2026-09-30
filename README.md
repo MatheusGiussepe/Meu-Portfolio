@@ -2,7 +2,7 @@
 
 **Desenvolvedor full-stack.** Sites, sistemas sob medida, automações e soluções com IA, da ideia ao deploy.
 
-[Ver o portfólio no ar](https://seu-dominio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/matheusgiussepe/) · [WhatsApp](https://wa.me/5547999306802) · [E-mail](mailto:Mgiussepe26@gmail.com)
+[Ver o portfólio no ar](https://matheus-giussepe.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/matheusgiussepe/) · [WhatsApp](https://wa.me/5547999306802) · [E-mail](mailto:Mgiussepe26@gmail.com)
 
 ![Página inicial do portfólio](docs/preview.png)
 
